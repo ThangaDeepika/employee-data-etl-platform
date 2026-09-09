@@ -156,6 +156,4 @@ Streamlit Dashboard
 
 ### Thanga Deepika R
 
-Graduate Engineer Trainee
-
-Built as a learning project to understand ETL architecture, data validation, database integration, API development, and dashboard reporting.
+Built as a project with ETL architecture, data validation, database integration, API development, and dashboard reporting.
